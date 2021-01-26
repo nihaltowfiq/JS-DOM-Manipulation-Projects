@@ -1,1 +1,1 @@
-## Some Projects for practice JavaScript DOM Manipulation with HTML, CSS!
+## Some JavaScript Projects for practice DOM Manipulation with HTML, CSS!
