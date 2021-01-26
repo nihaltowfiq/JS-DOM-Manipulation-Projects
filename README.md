@@ -1,1 +1,1 @@
-# 50 Projects for practice JavaScript!
+## Some Projects for practice JavaScript DOM Manipulation with HTML, CSS!
